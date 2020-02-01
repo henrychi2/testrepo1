@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"cff56359-d3fa-41b4-891c-4746df3fd46f","asset_type":"connection","creator_id":"1000330999"},"entity":{"datasource_type":"8c1a4480-1c29-4b33-9086-9cb799d7b157","description":"","name":"testconn1","origin_country":"us","properties":{"database":"sample","port":50000,"host":"10.95.223.125","ssl":false},"flags":["personal_credentials"]}}
